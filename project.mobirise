@@ -1595,7 +1595,7 @@
                 "itemPrice": "2 450 тг",
                 "oldPriceValue": "",
                 "sale": "Лидер продаж",
-                "button": "<a data-app-btn=\"true\" href=\"tel:+7-701-5126543 \" data-app-placeholder=\"Type Text\" class=\"btn btn-secondary display-7 note-air-editor note-editable\">Buy now!</a>",
+                "button": "<a data-app-btn=\"true\" href=\"tel:+7-701-5126543 \" data-app-placeholder=\"Type Text\" class=\"btn btn-secondary display-7 note-editable note-air-editor\">Buy now!</a>",
                 "image": "@PROJECT_PATH@/assets/images/monte_karlo-600x800.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/monte-karlo-600x800-480x639.jpg",
                 "customStyle5": "display-5",
