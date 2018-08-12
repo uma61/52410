@@ -2644,8 +2644,8 @@ body {
   }
 }
 .cid-r0tr35Wdq0 {
-  padding-top: 135px;
-  padding-bottom: 135px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
   padding-left: 0;
   padding-right: 0;
@@ -2741,6 +2741,7 @@ body {
 .cid-r0tr35Wdq0 .mbr-title,
 .cid-r0tr35Wdq0 .underline {
   color: #080a50;
+  text-align: center;
 }
 .cid-r0tr35Wdq0 .mbr-text,
 .cid-r0tr35Wdq0 .mbr-section-btn {
@@ -2759,6 +2760,7 @@ body {
 .cid-r0tr35Wdq0 .mbr-list,
 .cid-r0tr35Wdq0 .social-list DIV {
   color: #080a50;
+  text-align: center;
 }
 .cid-r0n1j2N26e {
   padding-top: 15px;
